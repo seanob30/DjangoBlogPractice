@@ -1,3 +1,5 @@
+"""Blog Admin Register Models."""
+
 from django.contrib import admin
 from .models import Post
 
